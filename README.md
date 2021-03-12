@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="NPS_Email" src=".github/preview_email.png" width="100%">
+  <img alt="NPS_Email" src="preview_email.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
